@@ -30,9 +30,9 @@ Nous étions une équipe de cinq membres, chacun apportant des compétences et d
 
 Ce référentiel Git contient l'ensemble des fichiers sources et des ressources utilisées dans le projet CodeDreams. Voici une brève description de la structure du référentiel :
 
-- **/site_map** : Contient le plan détaillé du site, décrivant les différentes pages et leur hiérarchie.
-- **/wireframes** : Comprend les wireframes créés pour chaque page du site, montrant la disposition des éléments et les interactions principales.
-- **/logo** : Contient le fichier du logo de l'agence CodeDreams, créé spécifiquement pour ce projet.
-- **/charte_graphique** : Inclut les fichiers liés à la charte graphique, tels que les couleurs, les polices, les icônes, etc.
-- **/maquettes** : Comprend les maquettes détaillées de chaque page du site, illustrant l'apparence visuelle finale.
-- **/prototype** : Contient le prototype interactif du site, permettant de naviguer et d'interagir avec les fonctionnalités.
+- **`site_map`** : Contient le plan détaillé du site, décrivant les différentes pages et leur hiérarchie.
+- **`wireframes`** : Comprend les wireframes créés pour chaque page du site, montrant la disposition des éléments et les interactions principales.
+- **`logo`** : Contient le fichier du logo de l'agence CodeDreams, créé spécifiquement pour ce projet.
+- **`charte_graphique`** : Inclut les fichiers liés à la charte graphique, tels que les couleurs, les polices, les icônes, etc.
+- **`maquettes`** : Comprend les maquettes détaillées de chaque page du site, illustrant l'apparence visuelle finale.
+- **`prototype`** : Contient le prototype interactif du site, permettant de naviguer et d'interagir avec les fonctionnalités.
